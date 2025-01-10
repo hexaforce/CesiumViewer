@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from 'react'
+import { useEffect, useRef } from 'react'
 import { Viewer, Ion } from 'cesium'
 import 'cesium/Build/Cesium/Widgets/widgets.css'
 

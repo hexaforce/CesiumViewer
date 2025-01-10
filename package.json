@@ -7,13 +7,14 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "fmt": "prettier --write \"./**/*.{jsx,css,html}\"",
+    "fmt": "prettier --write \"./**/*.{jsx,css}\"",
     "preview": "vite preview"
   },
   "dependencies": {
     "cesium": "^1.125.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.1.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
